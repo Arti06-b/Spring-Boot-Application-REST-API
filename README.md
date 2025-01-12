@@ -1,12 +1,14 @@
 CRUD REST API with Spring Boot and H2 In-Memory Database
 
   📖 Project Overview
+  
     This project is a simple CRUD (Create, Read, Update, Delete) REST API built using Spring Boot and an H2 in-memory database. 
     It demonstrates how to structure a Spring Boot application with a clean architecture following best practices.
     The API allows users to perform basic CRUD operations on a User entity. 
     It is designed for beginners to understand the fundamentals of building REST APIs with Spring Boot.
     
 🚀 Features
+
 CRUD Operations: Create, Read, Update, and Delete runs.
 
 RESTful Endpoints: Implements REST standards for API design.
