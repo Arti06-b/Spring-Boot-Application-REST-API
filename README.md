@@ -50,7 +50,7 @@ The API will be running at: http://localhost:8080/api/runs
 
     Username: sa
 
-    Password: (leave blank)
+    Password: 
 
 📖 Learnings from the Project
 
